@@ -1,4 +1,4 @@
-# Pitchee Web（非官方网页版）
+
 
 基于 Pitchee Android 1.2.1 的本机网页版练习工具。原始项目和模型为 GPL-3.0-only，源码和许可证随包保留。
 
