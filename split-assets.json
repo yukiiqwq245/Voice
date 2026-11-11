@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "files": [
+    {
+      "path": "core/models/ECAPA.ncnn.bin",
+      "size": 41805808,
+      "sha256": "dd70c093162b0759f6386a3ac17b6a6e0768336ce9191b8691a9017c761e98c1",
+      "parts": [
+        "core/models/ECAPA.ncnn.bin.part00",
+        "core/models/ECAPA.ncnn.bin.part01",
+        "core/models/ECAPA.ncnn.bin.part02",
+        "core/models/ECAPA.ncnn.bin.part03",
+        "core/models/ECAPA.ncnn.bin.part04"
+      ]
+    },
+    {
+      "path": "engine/bin/ncnn.dll",
+      "size": 13470720,
+      "sha256": "d5709a0c84bdc6da1b1e2bd9151a529f083ff76264de60af9bacd0bee63db025",
+      "parts": [
+        "engine/bin/ncnn.dll.part00",
+        "engine/bin/ncnn.dll.part01"
+      ]
+    }
+  ]
+}

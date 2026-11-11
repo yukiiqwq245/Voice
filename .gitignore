@@ -1,0 +1,23 @@
+# Local Python and editor state
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+.idea/
+.vscode/
+
+# Rebuildable CMake output; the ready-to-run engine/bin is intentional.
+engine/build/
+# These large bundled files are reconstructed from the committed parts.
+/core/models/ECAPA.ncnn.bin
+/engine/bin/ncnn.dll
+.pitchee-asset-*
+
+# User recordings and exports must stay on the local device.
+recordings/
+*.wav
+*.webm
+*.mp3
+*.m4a
+*.ogg
+*.flac
